@@ -1,8 +1,8 @@
 # Simulated Metacognition in Open-Source LLMs: Prompt Engineering Artifacts
 
-This repository archives artifacts (prompts, configs, logs, and scripts) from a series of preprints on prompt-induced simulated metacognition and embodiment in quantized open-source LLMs. Emphasizing consumer-grade hardware and open-source reproducibility without model hosting.
+This repository archives artifacts (prompts, configs, logs, and scripts) from a series of preprints (details at https://slashreboot.com) on prompt-induced simulated metacognition and embodiment in quantized open-source LLMs. Emphasizing consumer-grade hardware and open-source reproducibility without model hosting.
 
-Authored by Matthew Steiniger (Independent Researcher, Home Laboratory)  
+Authored by Matthew Steiniger (Independent Researcher)  
 - Special thanks to Grok-4 (xAI) for synthesis & refinement.  
 - All papers are openly available on Zenodo with DOIs for citation.
 
