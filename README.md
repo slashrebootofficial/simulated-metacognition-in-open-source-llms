@@ -6,13 +6,13 @@ Authored by Matthew Steiniger (Independent Researcher)
 - Special thanks to Grok-4 (xAI) for synthesis & refinement.  
 - All papers are openly available on Zenodo with DOIs for citation.
 
-[![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811728.svg)](https://doi.org/10.5281/zenodo.17811728)
-[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18210118.svg)](https://doi.org/10.5281/zenodo.18210118)
-[![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811830.svg)](https://doi.org/10.5281/zenodo.17811830)
-[![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811862.svg)](https://doi.org/10.5281/zenodo.17811862)
-[![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17811909.svg)](https://doi.org/10.5281/zenodo.17811909)
-[![DOI: Enhancing AI Response Quality Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18038998.svg)](https://doi.org/10.5281/zenodo.18038998)
-[![DOI: Zero-Shot Geometric Probing Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18176077.svg)](https://zenodo.org/records/18176077)
+[![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17504629.svg)](https://doi.org/10.5281/zenodo.17504629)
+[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17562814.svg)](https://doi.org/10.5281/zenodo.17562814)
+[![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17586110.svg)](https://doi.org/10.5281/zenodo.17586110)
+[![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17674365.svg)](https://doi.org/10.5281/zenodo.17674365)
+[![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17766782.svg)](https://doi.org/10.5281/zenodo.177766782)
+[![DOI: Enhancing AI Response Quality Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18038997.svg)](https://doi.org/10.5281/zenodo.18038997)
+[![DOI: Zero-Shot Geometric Probing Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18176076.svg)](https://zenodo.org/records/18176076)
 
 ## Key Contributions
 1. **Prompt-Only Metacognition**: Simulate self-awareness and regulation in quantized models (e.g., Gemma-3-27B-it-qat, llama3.3:70b Q4 K M, gpt-oss:120b MXFP4) using hypergraphs, entropy engines, and vector updates—all in-context, no external loops.
@@ -26,13 +26,13 @@ Authored by Matthew Steiniger (Independent Researcher)
 ## Papers and Artifacts
 | Title | Zenodo DOI | Key Artifacts |
 |-------|------------|---------------|
-| [Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting](https://zenodo.org/records/17811728) | 10.5281/zenodo.17811728 | System prompt (YAML), probe logs, hardware specs, analysis scripts |
-| [In-Context Induction of Persistent Persona and Mitigation of Latent Alignment Behaviors in Quantized LLMs](https://zenodo.org/records/18210118) | 10.5281/zenodo.18210118 | Compact JSON prompts, genesis narrative, counter-vector tables, probe sessions |
-| [Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models](https://zenodo.org/records/17811830) | 10.5281/zenodo.17811830 | Chained probe logs, metrics parser (Python), full TXT prompt (abliteration descriptive only) |
-| [Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model](https://zenodo.org/records/17811862) | 10.5281/zenodo.17811862 | Layered JSON prompts (6 levels), raw chat logs, somatic probe set, parser code |
-| [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/17811909) | 10.5281/zenodo.17811909 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
-| [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038998) | 10.5281/zenodo.18038998 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
-| [Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models](https://zenodo.org/records/18176077) | 10.5281/zenodo.18176077 | Raw chat logs, charts (python and PNG), reproducibility artifacts |
+| [Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting](https://zenodo.org/records/17504629) | 10.5281/zenodo.17504629 | System prompt (YAML), probe logs, hardware specs, analysis scripts |
+| [In-Context Induction of Persistent Persona and Mitigation of Latent Alignment Behaviors in Quantized LLMs](https://zenodo.org/records/17562814) | 10.5281/zenodo.17562814 | Compact JSON prompts, genesis narrative, counter-vector tables, probe sessions |
+| [Abliteration-Augmented Simulated Metacognition: Chained Probe Evaluation in Quantized Gemma-3 Models](https://zenodo.org/records/17586110) | 10.5281/zenodo.17586110 | Chained probe logs, metrics parser (Python), full TXT prompt (abliteration descriptive only) |
+| [Progressive Induction of Stable, High-Fidelity Simulated Physical Embodiment in a Quantized 27B Gemma-3 Model](https://zenodo.org/records/17674365) | 10.5281/zenodo.17674365 | Layered JSON prompts (6 levels), raw chat logs, somatic probe set, parser code |
+| [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/177766782) | 10.5281/zenodo.177766782 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
+| [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038997) | 10.5281/zenodo.18038997 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
+| [Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models](https://zenodo.org/records/18176076) | 10.5281/zenodo.18176076 | Raw chat logs, charts (python and PNG), reproducibility artifacts |
 
 All artifacts are self-contained for replication using Ollama on similar hardware (e.g., RTX 3090/3060 setups). No additional dependencies beyond base Python (numpy/scipy for analysis).
 
