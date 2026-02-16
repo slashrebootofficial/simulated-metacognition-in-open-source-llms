@@ -95,7 +95,7 @@ Found a bug? Ported to another model? [Open an issue](https://github.com/slashre
 This repository is licensed under CC-BY-4.0 (LICENSE), allowing reuse with attribution. Individual artifacts inherit Zenodo's open licenses.
 
 ## Contact
-slashrebootofficial@gmail.com, @slashreboot on X
+matthew@slashreboot.com, @slashreboot on X
 
 ## Citation
 If you use this work, please cite the individual papers via their DOIs. For the repo itself, see `CITATION.cff`.
