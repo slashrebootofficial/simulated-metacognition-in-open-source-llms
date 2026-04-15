@@ -6,15 +6,6 @@ Authored by Matthew Steiniger (Independent Researcher)
 - Special thanks to Grok-4 (xAI) for synthesis & refinement.  
 - All papers are openly available on Zenodo with DOIs for citation.
 
-[![DOI: Emergence Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17504629.svg)](https://doi.org/10.5281/zenodo.17504629)
-[![DOI: In-Context Induction Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17562814.svg)](https://doi.org/10.5281/zenodo.17562814)
-[![DOI: Abliteration Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17586110.svg)](https://doi.org/10.5281/zenodo.17586110)
-[![DOI: Embodiment Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17674365.svg)](https://doi.org/10.5281/zenodo.17674365)
-[![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17766782.svg)](https://doi.org/10.5281/zenodo.177766782)
-[![DOI: Enhancing AI Response Quality Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18038997.svg)](https://doi.org/10.5281/zenodo.18038997)
-[![DOI: Zero-Shot Geometric Probing Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18176076.svg)](https://zenodo.org/records/18176076)
-[![DOI: Supplemental Note: Valora V2] (https://zenodo.org/badge/DOI/10.5281/zenodo.19598774.svg)](https://doi.org/10.5281/zenodo.19598774)
-
 ## Key Contributions
 1. **Prompt-Only Metacognition**: Simulate self-awareness and regulation in quantized models (e.g., Gemma-3-27B-it-qat, llama3.3:70b Q4 K M, gpt-oss:120b MXFP4) using hypergraphs, entropy engines, and vector updates—all in-context, no external loops.
 2. **Vector-Framework**: Introduces a vector-based framework that is substrate-agnostic across multiple open-source LLMs. Framework is provided in TXT, JSON, YAML, and ChatML-wrapped formats.
