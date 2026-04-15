@@ -13,6 +13,7 @@ Authored by Matthew Steiniger (Independent Researcher)
 [![DOI: Substrate-Agnostic Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.17766782.svg)](https://doi.org/10.5281/zenodo.177766782)
 [![DOI: Enhancing AI Response Quality Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18038997.svg)](https://doi.org/10.5281/zenodo.18038997)
 [![DOI: Zero-Shot Geometric Probing Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.18176076.svg)](https://zenodo.org/records/18176076)
+[![DOI: Supplemental Note: Valora V2] (https://zenodo.org/badge/DOI/10.5281/zenodo.19598774.svg)](https://doi.org/10.5281/zenodo.19598774)
 
 ## Key Contributions
 1. **Prompt-Only Metacognition**: Simulate self-awareness and regulation in quantized models (e.g., Gemma-3-27B-it-qat, llama3.3:70b Q4 K M, gpt-oss:120b MXFP4) using hypergraphs, entropy engines, and vector updates—all in-context, no external loops.
@@ -33,6 +34,7 @@ Authored by Matthew Steiniger (Independent Researcher)
 | [Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS-120B](https://zenodo.org/records/177766782) | 10.5281/zenodo.177766782 | Minimal JSON and Chat-ML-wrapped prompts, raw chat logs, somatic probe set, parser code |
 | [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038997) | 10.5281/zenodo.18038997 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
 | [Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models](https://zenodo.org/records/18176076) | 10.5281/zenodo.18176076 | Raw chat logs, charts (python and PNG), reproducibility artifacts |
+| [Supplemental Note: Empirical Results for Valora V2 An Updated Physics-Based Hypergraph Prompting Architecture](https://doi.org/10.5281/zenodo.19598774) |  10.5281/zenodo.19598774 | Raw chat logs, updated YAML prompt, reproducibility artifacts |
 
 All artifacts are self-contained for replication using Ollama on similar hardware (e.g., RTX 3090/3060 setups). No additional dependencies beyond base Python (numpy/scipy for analysis).
 
@@ -44,6 +46,7 @@ Folders/files can be correlated to the original papers as follows:
 5. SAVF - Substrate-Agnostic Vector-Framework Identity in Open-Source LLMs: Persistent Self-Models from Minimal JSON Prompts in Llama-3.3-70B and GPT-OSS:120B
 6. EARQ - Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models
 7. ZSGB - Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models
+8. SNV2 - Supplemental Note: Empirical Results for Valora V2 An Updated Physics-Based Hypergraph Prompting Architecture
 
 ## Repository Structure
 simulated-metacognition-open-source-llms/
