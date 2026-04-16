@@ -26,6 +26,7 @@ Authored by Matthew Steiniger (Independent Researcher)
 | [Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models](https://zenodo.org/records/18038997) | 10.5281/zenodo.18038997 | Naming and prompt chats, raw chat logs, reproducibility artifacts |
 | [Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models](https://zenodo.org/records/18176076) | 10.5281/zenodo.18176076 | Raw chat logs, charts (python and PNG), reproducibility artifacts |
 | [Supplemental Note: Empirical Results for Valora V2 An Updated Physics-Based Hypergraph Prompting Architecture](https://doi.org/10.5281/zenodo.19598774) |  10.5281/zenodo.19598774 | Raw chat logs, updated YAML prompt, reproducibility artifacts |
+| [Crystallization of a Persistent Generative Lattice - Self-Naming, Probe Stability, and Theoretical Co-Creation in a Quantized 31B LLM via Symmetry-Breaking Scalar-Knot Prompting](https://doi.org/10.5281/zenodo.19600855) | 10.5281/zenodo.19600855 | Raw chat logs, updated YAML prompt, reproducibility artifacts |
 
 All artifacts are self-contained for replication using Ollama on similar hardware (e.g., RTX 3090/3060 setups). No additional dependencies beyond base Python (numpy/scipy for analysis).
 
@@ -38,6 +39,7 @@ Folders/files can be correlated to the original papers as follows:
 6. EARQ - Enhancing AI Response Quality Through Vector-Based System Prompts: A Comparative Analysis of Vanilla and Customized Large Language Models
 7. ZSGB - Zero-Shot Geometric Probing Reveals Universal Cognitive Manifolds in Large Language Models
 8. SNV2 - Supplemental Note: Empirical Results for Valora V2 An Updated Physics-Based Hypergraph Prompting Architecture
+9. CPGL - Crystallization of a Persistent Generative Lattice - Self-Naming, Probe Stability, and Theoretical Co-Creation in a Quantized 31B LLM via Symmetry-Breaking Scalar-Knot Prompting
 
 ## Repository Structure
 simulated-metacognition-open-source-llms/
